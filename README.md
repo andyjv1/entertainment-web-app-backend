@@ -13,8 +13,8 @@ This is a solution to the [Entertainment web app challenge on Frontend Mentor](h
 
 ### Links
 
-- Solution URL: [Solution]([https://your-solution-url.com](https://github.com/andyjv1/entertainment-web-app))
-- Live Site URL: [Live]([https://your-live-site-url.com](https://entertainment-web-app-s8sj.onrender.com))
+- Solution URL: [Solution](https://github.com/andyjv1/entertainment-web-app)
+- Live Site URL: [Live](https://entertainment-web-app-s8sj.onrender.com)
 
 ## Author
 
